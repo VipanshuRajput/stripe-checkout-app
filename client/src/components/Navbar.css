@@ -1,0 +1,17 @@
+.nav {
+  background: #222;
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart-btn {
+  background: #ffcc00;
+  padding: 8px 15px;
+  border-radius: 6px;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}

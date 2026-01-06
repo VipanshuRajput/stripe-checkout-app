@@ -1,0 +1,26 @@
+.cart-container {
+  max-width: 400px;
+  margin: 50px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.row {
+  padding: 10px 0;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 15px 0;
+}
+
+button {
+  width: 100%;
+  background: #222;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+}
